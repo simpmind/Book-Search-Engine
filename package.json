@@ -29,5 +29,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.7.2",
     "npm-watch": "^0.11.0"
-  }
+  },
+  "engines" : {
+    "node": "v16.16.0"}
 }
