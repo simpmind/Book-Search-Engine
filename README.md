@@ -76,7 +76,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Screenshots 
 
 
-![Landing Page](../02-Challenge/Develop/client/src/assets/landing.png)
+![Landing Page](../book/client/src/assets/landing.png)
 
 ## Credits
 
@@ -88,7 +88,7 @@ Ave Steimle  - Bootcamp TA
 
 
 ## Link 
-<a href="https://github.com/simpmind/-Book-Search-Engine.git">Click Here</a>
+<a href="https://booksearch-dd.herokuapp.com">Click Here</a>
 
 ## Usage 
 
